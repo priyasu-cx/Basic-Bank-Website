@@ -1,0 +1,59 @@
+body{
+  font-family: 'Raleway', sans-serif;
+}
+
+.search-text {
+   padding-bottom: 10px;
+}
+
+.search-text .input-search {
+	height: 45px;
+	width: 40%;
+	padding-left: 20px;
+  color: #333;
+}
+
+.search-text .btn-search {
+    background: #ff0000;
+    border: none;
+	  color: #FFF;
+	  height: 45px;
+    width: 20%;
+}
+
+.search-text h4 {
+    color: #888582;
+    font-weight: 700;
+}
+footer {
+	background-color: #00001a;
+    padding: 20px 0px;
+}
+
+footer ul{
+    list-style: none;
+    margin: 0 auto;
+    display: inline-block;
+    padding-top: 10px;
+}
+
+footer ul li {
+    float: left;
+}
+
+footer ul li a{
+	color: #b1aca1;
+    padding: 20px;
+}
+
+footer ul li a:hover {
+	color: #7dabdb;
+	text-decoration: none;
+}
+.copyright {
+    background-color: #f0f0f0;
+}
+
+.copyright p {
+	font-size: 12px;
+}
